@@ -1,8 +1,8 @@
-## 📁 Repository Focus & Statistical Framework
+## Repository Focus & Statistical Framework
 
 This repository serves as a comprehensive toolkit for inferential statistics and advanced data analytics. It contains robust data-driven frameworks designed to extract business intelligence using precise hypothesis testing methodologies across numerical, categorical, and proportional datasets.
 
-### 🧠 Core Statistical Capabilities Matrix
+## Core Statistical Capabilities Matrix
 
 The scripts and projects housed in this repository span the following inferential domains:
 
